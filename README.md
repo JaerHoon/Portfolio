@@ -2,8 +2,8 @@
 ## 2. 이력서
 https://drive.google.com/file/d/1eRS79poBI3aMgKF9ZjHeqG3AhWhHYxf2/view?usp=drive_link
 ## 3. 보유기술
--Unity
--C#
+- Unity
+- C#
 ## 4. 지원분야
 - 유니티 게임 클라이언트 개발(신입)
 ## 5. 포트폴리오
